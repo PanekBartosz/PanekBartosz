@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋 I'm Bartosz Panek !</h2>
 
-<h3 align="center">I am a passionate computer science student with a strong foundation in software development, data structures and algorithms, database management, and computer networks. I have hands-on experience with Python, C#, C++, and JavaScript, and a keen interest in machine learning. My portfolio includes a range of projects that showcase my ability to design and implement complex software solutions. I am committed to continuous learning and innovation in the tech field.</h3>
+<h3 align="center">I am a passionate computer science graduate with a strong foundation in software development, data structures and algorithms, database management, computer networks, cloud solutions, and AI/ML. I have hands-on experience with Python, C#, C++, and JavaScript, and a keen interest in machine learning. My portfolio includes a range of projects that showcase my ability to design and implement complex software solutions. I am committed to continuous learning and innovation in the tech field.</h3>
 
 ###
 
